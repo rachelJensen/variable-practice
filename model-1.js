@@ -14,3 +14,17 @@ var isBored = false;
 //Array examples
 var numbers = [1, 2, 5, 8];
 var names = ["Rachel", "Navead", "Anne"];
+
+//Object examples
+var desk = {
+  type: 'wood',
+  hasDrawer: true,
+  location: 'Rachel\'s office"
+}
+
+var husband = {
+  name: "Navead",
+  age: 45,
+  isHandsome: true,
+  sports: ['soccer', 'rock climbing','skiing', 'surfing'];
+}
