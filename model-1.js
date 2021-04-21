@@ -10,3 +10,7 @@ var float = 2.83;
 //Boolean examples
 var likesCoffee = true;
 var isBored = false;
+
+//Array examples
+var numbers = [1, 2, 5, 8];
+var names = ["Rachel", "Navead", "Anne"];
