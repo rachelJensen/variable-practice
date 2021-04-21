@@ -6,3 +6,7 @@ var greeting = "Hey there!";
 var age = 38;
 var hourlyRate = 35;
 var float = 2.83;
+
+//Boolean examples
+var likesCoffee = true;
+var isBored = false;
